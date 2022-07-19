@@ -1,5 +1,4 @@
 # demo-swagger
-# GET STARTING
 
 ## Installing Beego
 go get github.com/beego/beego/v2
